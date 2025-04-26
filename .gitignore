@@ -1,0 +1,28 @@
+# Xcode
+build/
+DerivedData/
+.idea/
+*.swp
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# Swift Package Manager
+/.build
+/.swiftpm
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# General
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.log
+*.tmp
+*.swp
+*.swo
